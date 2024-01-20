@@ -1,0 +1,16 @@
+:root {
+  --text: #EEEEEE;
+  --background: #222f38;
+  --primary: #c8acac;
+  --secondary: #a65959;
+  --accent: #9cb7c9; 
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--background);
+  color: var(--text);
+}

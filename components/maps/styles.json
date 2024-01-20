@@ -1,0 +1,20 @@
+{
+  "mapContainer": {
+    "height": "100%",
+    "width": "100%",
+    "backgroundColor": "var(--background)",
+    "border": "2px solid var(--text)"
+  },
+  "geoJSON": {
+    "weight": 1,
+    "color": "var(--text)",
+    "fillColor": "var(--background)",
+    "fillOpacity": 1
+  },
+  "marker": {
+    "color": "var(--accent)",
+    "fillColor": "var(--text)",
+    "weight": 2,
+    "fillOpacity": 1
+  }
+}
